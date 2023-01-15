@@ -1,5 +1,13 @@
 # Clean up
 
+## Cleaning up Cloudfront distribution
+- Distrubutions must be diabled before deleting
+- After disabling, it may take a few minutes until the delete option is available
+
+![Alt](../img/assets_cleanUp/cleanCDN.gif)
+
+------------------------------------------------------------------------------------------
+
 ## Cleaning up S3 bucket
 - S3 buckets must be empty prior to deleting
 - Use the `empty` button or the delete button, follow prompts

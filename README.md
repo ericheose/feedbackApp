@@ -16,19 +16,21 @@ The main goal is to gain a better understanding of how to build with AWS service
 ------------------------------------------------------------------------------------------
 
 ## Implementation - Serverless
-- [AWS DynamoDB][1.1] to be the database for where we get/post feedback
+- [Amazon DynamoDB][1.1] to be the database for where we get/post feedback
 - [AWS Lambda][1.2] to create functions that read/write to database, using python
-- [AWS API Gateway][1.3] to create a REST API that connects to the web app
-- [AWS S3][1.4] to host the web app
-- [AWS Management Console][1.5] to setup and configure services
+- [Amazon API Gateway][1.3] to create a REST API that connects to the web app
+- [Amazon S3][1.4] to host the web app
+- [Amazon Cloudfront][1.5] to deliver web app to edge locations
+- [AWS Management Console][1.6] to setup and configure services
 
-![Architecture diagram](img/diagram_v1.jpg)
+![Architecture diagram](img/diagram_v2.jpg)
 
 [1.1]: <https://aws.amazon.com/dynamodb/>
 [1.2]: <https://aws.amazon.com/lambda/>
 [1.3]: <https://aws.amazon.com/api-gateway/>
 [1.4]: <https://aws.amazon.com/s3/>
-[1.5]: <https://aws.amazon.com/console/>
+[1.5]: <https://aws.amazon.com/cloudfront/>
+[1.6]: <https://aws.amazon.com/console/>
 
 ## Demo
 <!-- HD 60fps -->
@@ -58,13 +60,15 @@ The documentation is divided into several sections, the order is recommended:
 2. [Create lamda functions][2.2]
 3. [Create REST API][2.3]
 4. [Host web app][2.4]
-5. [Clean up][2.5]
+5. [Deploy to CDN][2.5]
+6. [Clean up][2.6]
 
 [2.1]: <docs/createDynamoDB.md>
 [2.2]: <docs/createLambdaFuncs.md>
 [2.3]: <docs/createRestAPI.md>
 [2.4]: <docs/hostWebApp.md>
-[2.5]: <docs/cleanUp.md>
+[2.5]: <docs/deployCDN.md>
+[2.6]: <docs/cleanUp.md>
 
 ## Team
 
