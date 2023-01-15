@@ -29,22 +29,31 @@ replace bucket-name with your won bucket
 
 
 
+### Step 01:
 ![Alt](../img/assets_host/host01.gif)
 
+### Step 02:
 ![Alt](../img/assets_host/host02.gif)
 
+### Step 03:
 ![Alt](../img/assets_host/host03.gif)
 
+### Step 04:
 ![Alt](../img/assets_host/host04.gif)
 
+### Step 05:
 ![Alt](../img/assets_host/host05.gif)
 
+### Step 06:
 ![Alt](../img/assets_host/host06.gif)
 
+### Step 07:
 ![Alt](../img/assets_host/host07.gif)
 
+### Step 08:
 ![Alt](../img/assets_host/host08.gif)
 
+### Step 09:
 ![Alt](../img/assets_host/host09.gif)
 
 ### Next -> [Clean up][2.5]
