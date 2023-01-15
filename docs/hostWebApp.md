@@ -12,6 +12,7 @@
 
 ## Implementation
 ### Step 01:
+- Web app can be found here [`../webApp/`](../webApp/)
 - Copy the **appended** `invoke url`
 - Go to the app.js file of the webApp
 - Replace the empty string for `apiGateway`
