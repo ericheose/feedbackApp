@@ -33,3 +33,6 @@
 ![Delete dynamoDB](../img/assets_cleanUp/cleanDynamo.gif)
 
 ------------------------------------------------------------------------------------------
+
+### Next -> [Project Overview][3.1]
+[3.1]: <../README.md>
