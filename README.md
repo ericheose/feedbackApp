@@ -78,7 +78,7 @@ The documentation is divided into several sections, the order is recommended:
 | Name     | GitHub           | Role           |
 |:---------|:-----------------|:---------------|
 | Eric Heo | [ericheose][3.1] | Lead Developer |
-| Tony Yee | [coriandar][3.2] | The Intern     |
+| Tony Yee | [coriandar][3.2] | Developer     |
 
 [3.1]: <https://github.com/ericheose>
 [3.2]: <https://github.com/coriandar>
